@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# React
+node_modules/
+dist/
+
+# YOLO
+*.pt
+
+# VSCode
+.vscode/
+
+# Output
+runs/
+
+# Environment
+.env
